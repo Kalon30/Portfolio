@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dominican Portfolio by Kalon
-email:kridley@my.dom.edu  ridleykalon@gmail.com
+email: kridley@my.dom.edu  
+email: ridleykalon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
