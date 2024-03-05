@@ -1,16 +1,14 @@
 ---
 title: "Flipbook Example"
 date: 2024-03-01T15:34:30-04:00
-categories:
-  - test
 tags:
   - Javascript
 ---
 
 <!-- IMPORT FLIPBOOK STYLES (Flipbook & Icons Stylesheets) -->
 <!-- These lines must be added to the top of the .md file, just below the frontmatter -->
-<link href="{{ 'assets/css/dflip.min.css' | absolute_url }}" rel="stylesheet" type="text/css">
-<link href="{{ 'assets/css/themify-icons.min.css' | absolute_url }}" rel="stylesheet" type="text/css">
+<link href="../assets/css/dflip.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/themify-icons.min.css" rel="stylesheet" type="text/css">
 
 
 <!-- -----------------------------------------------------------------------------
@@ -24,7 +22,7 @@ Place this code at the location where the PDF viewer should display in the post
         <div class="col-xs-12">
             <div id="flipbook" class="_df_book" height="500" webgl="true"
                 backgroundcolor="#0f477e"
-                source="{{ 'assets/pdf/The-Case-for-Memory-Safe-Roadmaps-508c.pdf' | absolute_url }}">
+                source="../assets/pdf/The-Case-for-Memory-Safe-Roadmaps-508c.pdf">
             </div>
         </div>
     </div>
@@ -33,5 +31,5 @@ Place this code at the location where the PDF viewer should display in the post
 
 <!-- IMPORT FLIPBOOK JAVASCRIPT (jQuery & Main Flipbook JS) -->
 <!-- These lines must be added to the bottom of the .md file -->
-<script src="{{ 'assets/js/libs/jquery.min.js' | absolute_url }}" type="text/javascript"></script>
-<script src="{{ 'assets/js/dflip.min.js' | absolute_url }}" type="text/javascript"></script>
+<script src="../assets/js/libs/jquery.min.js" type="text/javascript"></script>
+<script src="../assets/js/dflip.min.js" type="text/javascript"></script>
