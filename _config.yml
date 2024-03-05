@@ -89,7 +89,7 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
-  # _posts
+  # _outcomes
   - scope:
       path: ""
       type: posts
