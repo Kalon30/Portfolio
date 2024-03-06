@@ -63,7 +63,7 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "LinkedIn"
-      icon: <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+      icon: "fa fa-linkedin"
       url: "https://www.linkedin.com/in/kalonridley/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
