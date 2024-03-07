@@ -1,7 +1,7 @@
 main:
   - title: "Learning Outcomes"
     url: /posts/
-  - title: "Tags"
+  - title: "Topics"
     url: /tags/
   - title: "About"
     url: /about/
