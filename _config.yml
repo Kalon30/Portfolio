@@ -62,10 +62,10 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/kalonridley/"
+      url: "https://www.linkedin.com/in/kalonridley/"{:target="_blank"}
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Kalon30"
+      url: "https://github.com/Kalon30"{:target="_blank"}
 
 
 
