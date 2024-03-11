@@ -60,7 +60,7 @@ plugins:
 author:
   name   : Kalon Ridley
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Budding Information Professional"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
