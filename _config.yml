@@ -18,8 +18,8 @@ email: ridleykalon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   e-Portfolio for Kalon Ridley. It highlights my graudate schoole xpereinc eiwth artifacts that show I am ready for an information role. Many of my artifacts focus on equity and fairness. As a Black Male in the library field I feel this is of the upmost importance.
 linkedin_username: https://www.linkedin.com/in/kalonridley/
-github_username: username
-minimal_mistakes_skin: contrast
+github_username: https://github.com/Kalon30
+minimal_mistakes_skin: false
 search: true
 
 # Build settings
