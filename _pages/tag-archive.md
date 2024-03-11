@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "Covered Topics"
 permalink: /tags/
 layout: tags
 ---
