@@ -1,6 +1,6 @@
 ---
-title: ""
+title: "MLIS Student Learning Goals and Outcomes"
 permalink: /posts/
 layout: posts
-author_profile: true
+author_profile: false
 ---
