@@ -1,9 +1,10 @@
+---
 title: "Goal Three"
 categories:
 
 tags:
-
 ---
+
 # Outcome 3a
 ### Design resources or tools that facilitate access to information.
 
