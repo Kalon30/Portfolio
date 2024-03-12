@@ -4,8 +4,26 @@ entries_layout: grid
 classes: wide
 ---
 
-<body style="margin-left: 0;">
-<h1> Welcome to my Portfolio </h1>
+<style>
+  .image-container {
+    display: flex;
+    align-items: center; /* Vertically center content */
+  }
 
-<img src="https://kalon30.github.io/Portfolio/assets/images/bio-photo-official.jpg" alt="Bio Photo" style="max-width: 300px;">
+  .left-image {
+    max-width: 50%; /* Adjust the width of the image */
+    margin-right: 20px; /* Adjust the spacing between image and text */
+  }
 
+  .text-content {
+    max-width: 50%; /* Adjust the width of the text content */
+  }
+</style>
+
+<div class="image-container">
+  <img src="https://kalon30.github.io/Portfolio/assets/images/bio-photo-official.jpg" alt="Bio Photo" class="left-image">
+  <div class="text-content">
+    <h1>Welcome to my Portfolio</h1>
+    <p>Your text goes here...</p>
+  </div>
+</div>
