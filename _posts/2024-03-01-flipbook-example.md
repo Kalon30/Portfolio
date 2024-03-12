@@ -5,6 +5,7 @@ categories:
   - test
 tags:
   - Javascript
+order: 6
 ---
 
 <!-- IMPORT FLIPBOOK STYLES (Flipbook & Icons Stylesheets) -->
