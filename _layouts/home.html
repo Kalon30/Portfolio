@@ -3,57 +3,27 @@ layout: archive
 entries_layout: grid
 classes: wide
 ---
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome to my Portfolio</title>
 
-  <style>
-    body {
-      margin-left: -1000px; /* Adjust the negative margin to your preference */
-    }
+<style>
+  .image-container {
+    display: flex;
+    align-items: center; /* Vertically center content */
+  }
 
-    .main-content {
-      margin-left: 20px; /* Adjust the positive margin to counteract body margin */
-    }
+  .left-image {
+    max-width: 50%; /* Adjust the width of the image */
+    margin-right: 20px; /* Adjust the spacing between image and text */
+  }
 
-    .site-header,
-    .site-footer {
-      position: fixed;
-      width: 100%;
-      background-color: #f0f0f0; /* Adjust the background color if needed */
-      z-index: 1000; /* Adjust the z-index to ensure header and footer are above content */
-      left: 0;
-      top: 0;
-    }
+  .text-content {
+    max-width: 50%; /* Adjust the width of the text content */
+  }
+</style>
 
-    .site-footer {
-      bottom: 0;
-      top: auto;
-    }
-  </style>
-</head>
-
-<body>
-
-  <div class="site-header">
-    <!-- Your header content goes here -->
-    <h1>Header Content</h1>
+<div class="image-container">
+  <img src="https://kalon30.github.io/Portfolio/assets/images/bio-photo-official.jpg" alt="Bio Photo" class="left-image">
+  <div class="text-content">
+    <h1>Welcome to my Portfolio</h1>
+    <p>Your text goes here...</p>
   </div>
-
-  <div class="main-content">
-    <div class="image-container">
-      <img src="https://kalon30.github.io/Portfolio/assets/images/bio-photo-official.jpg" alt="Bio Photo" class="left-image">
-      <div class="text-content">
-        <h1>Welcome to my Portfolio</h1>
-        <p>Quick Access</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="site-footer">
-    <!-- Your footer content goes here -->
-    <p>Footer Content</p>
-  </div>
-
-</body>
+</div>
