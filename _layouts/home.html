@@ -10,23 +10,26 @@ classes: wide
 
   <style>
     body {
-      margin-left: -1000px; /* Adjust the left margin to your preference */
+      margin-left: -1000px; /* Adjust the negative margin to your preference */
     }
 
-    .image-container {
-      display: flex;
-      align-items: center; /* Vertically center content */
+    .main-content {
+      margin-left: 20px; /* Adjust the positive margin to counteract body margin */
     }
 
-    .left-image {
-      max-width: 50%; /* Adjust the width of the image */
-      margin-right: 20px; /* Adjust the spacing between image and text */
+    .site-header,
+    .site-footer {
+      position: fixed;
+      width: 100%;
+      background-color: #f0f0f0; /* Adjust the background color if needed */
+      z-index: 1000; /* Adjust the z-index to ensure header and footer are above content */
+      left: 0;
+      top: 0;
     }
 
-    .text-content {
-      max-width: 50%; /* Adjust the width of the text content */
-    }
-  </style>
+    .site-footer {
+      bottom: 0;
+      top: auto;
 </head>
 
 <body>
@@ -40,3 +43,4 @@ classes: wide
   </div>
 
 </body>
+  </style>
