@@ -4,4 +4,6 @@ permalink: /posts/
 layout: posts
 author_profile: false
 ---
+
+---
 Pretty much just a quick test
