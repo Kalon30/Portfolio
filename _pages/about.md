@@ -6,5 +6,6 @@ author_profile: true
 
 Placehold: Welcome to my portfolio. 
 
-[Learn more about our topics](/tags/)
+[Covered topics](https://kalon30.github.io/Portfolio/tags/)
+
 
