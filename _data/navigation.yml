@@ -1,11 +1,9 @@
 main:
-  - title: "Reflective Essay"
-    url: /reflective-essay/
   - title: "Learning Outcomes"
     url: /posts/
+  - title: "Reflective Essay"
+    url: /reflective-essay/
   - title: "Resume"
     url: /resume/
   - title: "About"
     url: /about/
-  - title: "Topics"
-    url: /tags/
