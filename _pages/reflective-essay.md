@@ -19,7 +19,7 @@ This essay chronicles my transformation from a young library patron to an aspiri
     </div>
 </div>  <br>
 
-[Explore Portfolio by Topic ](https://kalon30.github.io/Portfolio/tags/) 
+
 
 <!-- IMPORT FLIPBOOK JAVASCRIPT (jQuery & Main Flipbook JS) -->
 <!-- These lines must be added to the bottom of the .md file -->
