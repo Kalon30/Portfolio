@@ -13,7 +13,7 @@ This essay chronicles my transformation from a young library patron to an aspiri
         <div class="col-xs-12">
             <div id="flipbook" class="_df_book" height="500" webgl="true"
                 backgroundcolor="#0f477e"
-                source="{{ 'assets/pdf/Artifact-1-LIS770.pdf' | absolute_url }}">
+                source="{{ 'assets/pdf/Reflection Essay.pdf' | absolute_url }}">
             </div>
         </div>
     </div>
