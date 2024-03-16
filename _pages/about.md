@@ -4,8 +4,8 @@ title: "About"
 author_profile: true
 ---
 
-Placehold: Welcome to my portfolio. 
+This Portfolio and website is my first ever published website. I avery proud of the effort and time that went into this. I could not have done this without the Derek at OPLIN who patiently helped me make the website look how I envisioned. THrough this process I gained profieicney in Excel and Markdown.  
 
-[Covered topics](https://kalon30.github.io/Portfolio/tags/)
+
 
 
