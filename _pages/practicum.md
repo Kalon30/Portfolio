@@ -36,7 +36,6 @@ Key Takeaways:
 
 ---
 ## OPLIN's Resources
-
 Outside of data write-ups and visualizations I wanted to offer a better idea of OPLIN's services through a lay person's eyes. So, I created infographics from this perspective. 
 
 <div class="container">
