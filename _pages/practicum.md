@@ -35,6 +35,7 @@ Key Takeaways:
 </div>   <br>
 
 ---
+
 ## OPLIN's Resources
 Outside of data write-ups and visualizations I wanted to offer a better idea of OPLIN's services through a lay person's eyes. So, I created infographics from this perspective. 
 
@@ -52,7 +53,8 @@ Outside of data write-ups and visualizations I wanted to offer a better idea of 
 ---
 Here is an excerpt from my reflective essay:
 "My final highlighted artifact is the social media announcement for Learning Outcome 1c. This simple social media announcement about my internship with the Ohio Public Library Information Network (OPLIN) holds significant weight in demonstrating my professional growth. It signifies the culmination of various experiences within the MLIS program, showcasing the practical application of my acquired knowledge.
-   <br> The announcement not only expresses my initial interest in the library technical world but also highlights the crucial role OPLIN plays in supporting library functionality through vital behind-the-scenes work. Through this internship, I've gained valuable insights into library network infrastructure, digital resources, website management, funding landscapes, and grant processes. This comprehensive experience solidified my desire for a career focused on ensuring equitable access to information by strengthening library operations through these essential behind-the-scenes tasks. This internship truly exemplifies the application of everything I've learned in the MLIS program and serves as a marker of my professional development."
+   <br> 
+The announcement not only expresses my initial interest in the library technical world but also highlights the crucial role OPLIN plays in supporting library functionality through vital behind-the-scenes work. Through this internship, I've gained valuable insights into library network infrastructure, digital resources, website management, funding landscapes, and grant processes. This comprehensive experience solidified my desire for a career focused on ensuring equitable access to information by strengthening library operations through these essential behind-the-scenes tasks. This internship truly exemplifies the application of everything I've learned in the MLIS program and serves as a marker of my professional development."
 
 
 ---
