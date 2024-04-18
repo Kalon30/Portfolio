@@ -5,7 +5,6 @@ categories:
 tags:
  - Professionalism
  - Equity and Access
- - Metadata and Information Management
  - Communication
 ---
 <link href="{{ 'assets/css/dflip.min.css' | absolute_url }}" rel="stylesheet" type="text/css">
