@@ -5,5 +5,7 @@ main:
     url: /reflective-essay/
   - title: "Resume"
     url: /resume/
+  - title: "Pracitcum Experience"
+    url: /practicum-xpereince.md/
   - title: "About"
     url: /about/
