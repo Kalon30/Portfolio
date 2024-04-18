@@ -16,7 +16,7 @@ Below are a few projects from my Practicum experience with the [Ohio Public Libr
 
 
 ---
-Data Writeup from the [Ohio's Public Library 2022 Statistics] (https://library.ohio.gov/libraries/ohio-public-library-statistics/stats-and-reports)    
+Data Writeup from the [Ohio's Public Library 2022 Statistics](https://library.ohio.gov/libraries/ohio-public-library-statistics/stats-and-reports)    
    <br>
 Key Takeaways:
 - Funding is King
