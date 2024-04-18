@@ -6,6 +6,6 @@ main:
   - title: "Resume"
     url: /resume/
   - title: "Practicum Experience"
-    url: /prac-exp/
+    url: /_pages/prac-exp.md/
   - title: "About"
     url: /about/
