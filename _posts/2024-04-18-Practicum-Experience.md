@@ -30,3 +30,5 @@ Here is an excerpt from my reflective essay:
 The announcement not only expresses my initial interest in the library technical world but also highlights the crucial role OPLIN plays in supporting library functionality through vital behind-the-scenes work. Through this internship, I've gained valuable insights into library network infrastructure, digital resources, website management, funding landscapes, and grant processes. This comprehensive experience solidified my desire for a career focused on ensuring equitable access to information by strengthening library operations through these essential behind-the-scenes tasks. This internship truly exemplifies the application of everything I've learned in the MLIS program and serves as a marker of my professional development."
 
 ---
+<script src="{{ 'assets/js/libs/jquery.min.js' | absolute_url }}" type="text/javascript"></script>
+<script src="{{ 'assets/js/dflip.min.js' | absolute_url }}" type="text/javascript"></script>
