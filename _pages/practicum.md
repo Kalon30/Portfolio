@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Practicum Experience
+---
 
 Below are a few projects from my Practicum experience with the [Ohio Public Library Information Network](https://oplin.ohio.gov). They are a vital institution for Ohio's Public Libraries, offering fast, reliable internet access, digital resources, web kits, tutorials, support, funding assistance, and more to libraries. This opportunity came about through the support of my library's director and a former library employee, now at OPLIN. It was a chance to improve my digital skills and broaden my  professional network, though I underestimated the depth of information, infrastructure, and meetings involved in maintaining the systems that I had used everyday. It has been an eye-opening experience. OPLIN's warm welcome provided invaluable opportunities to immerse myself in technology, gaining firsthand experience and a solid understanding of its complexities.
 
