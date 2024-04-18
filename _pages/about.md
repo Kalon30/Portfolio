@@ -8,5 +8,7 @@ I'm excited to share my first website with you! This project has been a labor of
 
 [Explore Portfolio by Topic ](https://kalon30.github.io/Portfolio/tags/) 
 
+[Practicum] (https://kalon30.github.io/Portfolio/prac-exp/)
+
 
 
