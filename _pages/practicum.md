@@ -44,7 +44,7 @@ Outside of data write-ups and visualizations I wanted to offer a better idea of 
         <div class="col-xs-12">
             <div id="flipbook" class="_df_book" height="500" webgl="true"
                 backgroundcolor="#0f477e"
-                source="{{ 'assets/pdf/Brown and White Scrapbook Project Management Infographic 2.pdf' | absolute_url }}">
+                source="{{ 'assets/pdf/Brown and White Scrapbook Project Management Infographic 3.pdf' | absolute_url }}">
             </div>
         </div>
     </div>
